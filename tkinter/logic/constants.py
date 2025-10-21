@@ -1,0 +1,1 @@
+COLOURS = ["red", "green", "blue", "orange", "purple", "cyan", "magenta", "yellow"] # Global to access colour list in draw_boxes_on_image function.
